@@ -1,0 +1,13 @@
+{
+    "colors": {
+      "white-light": "#f8f9fa",
+      "white-medium": "#e9ecef",
+      "black-medium": "#121212",
+      "black-darken": "#000000",
+      "grey-light": "#adb5bd",
+      "grey-medium": "#6c757d"
+    },
+    "fonts": {
+        "RickAndMorty": "Get Schwifty"
+    }
+}
